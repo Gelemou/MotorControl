@@ -1,0 +1,6 @@
+C:/project/MotorControl/build/Release/CMakeFiles/MotorControl.dir
+C:/project/MotorControl/build/Release/CMakeFiles/edit_cache.dir
+C:/project/MotorControl/build/Release/CMakeFiles/rebuild_cache.dir
+C:/project/MotorControl/build/Release/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/project/MotorControl/build/Release/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/project/MotorControl/build/Release/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

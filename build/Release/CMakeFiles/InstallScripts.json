@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/project/MotorControl/build/Release/cmake_install.cmake",
+		"C:/project/MotorControl/build/Release/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
