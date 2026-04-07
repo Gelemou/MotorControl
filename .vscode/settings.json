@@ -1,0 +1,4 @@
+{
+    // "C_Cpp.formatting": "clangFormat",
+    // "clang-format.executable": "tools/clang-format.exe"
+}

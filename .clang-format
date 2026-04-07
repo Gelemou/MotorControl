@@ -1,0 +1,4 @@
+# LLVM  Google
+BasedOnStyle: Google
+# 缩进设置
+IndentWidth: 4 # 使用4个空格缩进
