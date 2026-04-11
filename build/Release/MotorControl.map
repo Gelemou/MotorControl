@@ -677,6 +677,16 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/MotorControl.dir/BSP/Motor/bsp_motor.c.obj
  .data          0x00000000        0x0 CMakeFiles/MotorControl.dir/BSP/Motor/bsp_motor.c.obj
  .bss           0x00000000        0x0 CMakeFiles/MotorControl.dir/BSP/Motor/bsp_motor.c.obj
+ .text          0x00000000        0x0 CMakeFiles/MotorControl.dir/BSP/PID/bsp_pid.c.obj
+ .data          0x00000000        0x0 CMakeFiles/MotorControl.dir/BSP/PID/bsp_pid.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/MotorControl.dir/BSP/PID/bsp_pid.c.obj
+ .text.PID_Init
+                0x00000000       0x1c CMakeFiles/MotorControl.dir/BSP/PID/bsp_pid.c.obj
+ .text.PID_Compute
+                0x00000000       0x8e CMakeFiles/MotorControl.dir/BSP/PID/bsp_pid.c.obj
+ .comment       0x00000000       0x46 CMakeFiles/MotorControl.dir/BSP/PID/bsp_pid.c.obj
+ .ARM.attributes
+                0x00000000       0x34 CMakeFiles/MotorControl.dir/BSP/PID/bsp_pid.c.obj
  .text          0x00000000        0x0 CMakeFiles/MotorControl.dir/Core/Src/main.c.obj
  .data          0x00000000        0x0 CMakeFiles/MotorControl.dir/Core/Src/main.c.obj
  .bss           0x00000000        0x0 CMakeFiles/MotorControl.dir/Core/Src/main.c.obj
@@ -995,6 +1005,7 @@ LOAD cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_
 LOAD cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
 LOAD cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir/__/__/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
 LOAD CMakeFiles/MotorControl.dir/BSP/Motor/bsp_motor.c.obj
+LOAD CMakeFiles/MotorControl.dir/BSP/PID/bsp_pid.c.obj
 LOAD CMakeFiles/MotorControl.dir/Core/Src/main.c.obj
 LOAD CMakeFiles/MotorControl.dir/Core/Src/gpio.c.obj
 LOAD CMakeFiles/MotorControl.dir/Core/Src/tim.c.obj

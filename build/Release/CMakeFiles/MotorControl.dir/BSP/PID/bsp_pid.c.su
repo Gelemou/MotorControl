@@ -1,0 +1,2 @@
+C:/project/MotorControl/BSP/PID/bsp_pid.c:4:6:PID_Init	0	static
+C:/project/MotorControl/BSP/PID/bsp_pid.c:16:7:PID_Compute	0	static
